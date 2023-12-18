@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" >
 <p align="left"> <a href="https://twitter.com/taha_bouslah" target="blank"><img src="https://img.shields.io/twitter/follow/taha_bouslah?logo=twitter&style=for-the-badge" alt="taha_bouslah" /></a> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 📫 How to reach me **bouslahtaha33@gmail.com**
+- 📫 How to reach me **bouslahtaha@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
