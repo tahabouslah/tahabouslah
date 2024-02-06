@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Taha Bouslah</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" >
-<p align="left"> <a href="https://twitter.com/taha_bouslah" target="blank"><img src="https://img.shields.io/twitter/follow/taha_bouslah?logo=twitter&style=for-the-badge" alt="taha_bouslah" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel**
 
